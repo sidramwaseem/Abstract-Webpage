@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://abstract-webpage.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/sidramwaseem/Frontend-Projects/edit/main/HTML,CSS/Newbie/Abstract">
+    <a href="https://github.com/sidramwaseem/Abstract-Webpage">
       Solution
     </a>
     <span> | </span>
